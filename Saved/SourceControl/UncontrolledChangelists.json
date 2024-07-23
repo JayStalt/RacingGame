@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jamis/OneDrive/Documents/Unreal Projects/MyFirstRacingGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/jamis/OneDrive/Documents/Unreal Projects/MyFirstRacingGame/Content/RacingGame/Framework/GM_Racing_Game.uasset",
+				"C:/Users/jamis/OneDrive/Documents/Unreal Projects/MyFirstRacingGame/Content/RacingGame/CheckPoints/EP_Checkpoint.uasset",
+				"C:/Users/jamis/OneDrive/Documents/Unreal Projects/MyFirstRacingGame/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
+				"C:/Users/jamis/OneDrive/Documents/Unreal Projects/MyFirstRacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/9V/9TWWFXDW5MLVN69656EJI6.uasset",
+				"C:/Users/jamis/OneDrive/Documents/Unreal Projects/MyFirstRacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/0G/S09YAH4R8CMVDMZ7A20STZ.uasset",
+				"C:/Users/jamis/OneDrive/Documents/Unreal Projects/MyFirstRacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/09/W2AKE978T3NWWKU9HDSLMR.uasset",
+				"C:/Users/jamis/OneDrive/Documents/Unreal Projects/MyFirstRacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/QV/G2EUF48OVDINHTZFU42EHR.uasset"
+			]
+		}
+	]
+}
